@@ -2,5 +2,5 @@ User-Agent: *
 Disallow:
 
 
-Sitemap: http://hobbytablelegends.com/sitemap.xml
-Host: hobbytablelegends.com
+Sitemap: http://hobbytablelegends.minovix.online/sitemap.xml
+Host: hobbytablelegends.minovix.online
